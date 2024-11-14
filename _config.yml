@@ -19,7 +19,7 @@
 theme: jekyll-text-theme
 text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://www.NinCheon.github.io
+url     : https://NinCheon.github.io
 baseurl : /example # does not include hostname
 title   : Your Site Title
 description: > Bookmark this to keep an eye on my project updates! # this means to ignore newlines until "Language & timezone"
